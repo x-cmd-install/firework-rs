@@ -1,0 +1,113 @@
+about:
+  description: "A cross-platform ascii-art firework simulator in terminal"
+  license: MIT
+  homepage: 
+  head: dc9213d
+  archived: false
+  latestVersion: "v0.3.1"
+  collectedAt: 2026-09-08T03:14:31Z
+timeline:
+  created: 2024-03-09
+  lastCommit: 2024-04-30
+  lastRelease: 2024-04-30
+popularity:
+  star: 186
+  watcher: 1
+  fork: 7
+  release: 3
+  contributor: 2
+  pullRequest: 2
+  issue: 4
+language:
+  Rust: 57340
+totalBytes: 57340
+recent:
+  last30d:
+    since: 2026-08-09
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-10
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-10
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-12
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-13
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-09-18
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 0
+total:
+  release: 3
+  mergedPR: 1
+  openPR: 0
+  closedIssue: 1
+  openIssue: 3
+  commit: 33
+---
+path: /home/runner/.x-repo/github.com/Wayoung7/firework-rs
+collectedAt: 2026-09-08T03:14:39Z
+loc:
+  Rust:
+    code: 1903
+    comments: 12
+    blanks: 160
+    files: 13
+  Toml:
+    code: 32
+    comments: 0
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 181
+    blanks: 86
+    files: 2
+total:
+  code: 1935
+  comments: 302
+  blanks: 277
+  files: 16
+---
+
+---
+platform	name	url	size	score
+darwin/arm64			
+darwin/amd64	firework-rs-v0.3.1-x86_64-macos.tar.xz	https://github.com/Wayoung7/firework-rs/releases/download/v0.3.1/firework-rs-v0.3.1-x86_64-macos.tar.xz	359908	45
+linux/arm64	firework-rs-v0.3.1-aarch64-linux.tar.xz	https://github.com/Wayoung7/firework-rs/releases/download/v0.3.1/firework-rs-v0.3.1-aarch64-linux.tar.xz	342356	45
+linux/amd64	firework-rs-v0.3.1-x86_64-linux.tar.xz	https://github.com/Wayoung7/firework-rs/releases/download/v0.3.1/firework-rs-v0.3.1-x86_64-linux.tar.xz	391116	45
+win/arm64			
+win/amd64	firework-rs-v0.3.1-x86_64-windows.zip	https://github.com/Wayoung7/firework-rs/releases/download/v0.3.1/firework-rs-v0.3.1-x86_64-windows.zip	358675	45
