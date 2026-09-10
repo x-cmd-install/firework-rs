@@ -1,24 +1,73 @@
 # firework-rs
 
+[中文版本](./README.cn.md)
+
 A cross-platform ascii-art firework simulator in terminal
 
-- **Upstream**: <https://github.com/Wayoung7/firework-rs>
-- **Homepage**: <>
-- **Latest release**: `v0.3.1` (2024-04-30)
-- **Last commit**: 2024-04-30
-- **License**: MIT
-- **Stars**: 186 · **Forks**: 7 · **Open issues**: 4 · **Contributors**: 2
+![firework-rs](https://repo.x-cmd.io/firework-rs.svg)
 
-## Installation
+## Install
 
 ```sh
 x install firework-rs
 ```
 
-See <https://x-cmd.com/install/firework-rs> for details.
+## Code insight
 
-## Data
+Total: **1,935** lines of code across **16** files in the top 5 languages.
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 1,903 | 12 | 160 | 13 |
+| Toml | 32 | 0 | 6 | 1 |
+| Markdown | 0 | 181 | 86 | 2 |
 
-_Last regenerated: 2026-09-09T20:35:23Z._
+## Source
+
+- **Upstream**: <https://github.com/Wayoung7/firework-rs>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v0.3.1` (2024-04-30)
+- **Last commit**: 2024-04-30
+- **Assets in release**: 4
+
+## Popularity
+
+- **Stars**: 186 · **Forks**: 7 · **Open issues**: 4 · **Contributors**: 2
+
+## Totals (cumulative)
+
+- **Releases**: 3 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 3 · **Commits**: 33
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 1 | 0 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [firework-rs-v0.3.1-aarch64-linux.tar.xz](https://github.com/Wayoung7/firework-rs/releases/download/v0.3.1/firework-rs-v0.3.1-aarch64-linux.tar.xz) | 334.3 KiB | `native/linux/arm64` |
+| [firework-rs-v0.3.1-x86_64-linux.tar.xz](https://github.com/Wayoung7/firework-rs/releases/download/v0.3.1/firework-rs-v0.3.1-x86_64-linux.tar.xz) | 381.9 KiB | `native/linux/x64` |
+| [firework-rs-v0.3.1-x86_64-macos.tar.xz](https://github.com/Wayoung7/firework-rs/releases/download/v0.3.1/firework-rs-v0.3.1-x86_64-macos.tar.xz) | 351.5 KiB | `native/darwin/x64` |
+| [firework-rs-v0.3.1-x86_64-windows.zip](https://github.com/Wayoung7/firework-rs/releases/download/v0.3.1/firework-rs-v0.3.1-x86_64-windows.zip) | 350.3 KiB | `native/win/x64` |
+
+## Improve this data
+
+Install metadata for firework-rs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `firework-rs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/firework-rs.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:41:46Z._
